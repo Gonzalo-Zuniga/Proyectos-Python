@@ -2,7 +2,9 @@
 cuanto han vendido, como respuesta el usuario debe verificar por pantalla las comisiones que le correspondan"""
 import time
 
-porcentaje= 13/100
+"""obtencion del 13%"""
+porcentaje= 13/100 
+
 
 nombre = input("Cual es Tu nombre?\n")
 print (f"Bienvenido {nombre}: \n Para Comenzar necesitamos unos datos..")
@@ -20,6 +22,6 @@ print(f"{nombre}, la comision que te corresponde este mes es de: ${comision} pes
 time.sleep(4)
 print(f"Hasta pronto {nombre}, que tengas un buen dia")
 
-
+"""Fin del programa"""
 
 
