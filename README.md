@@ -1,7 +1,6 @@
 # Python
 Proyectos en python
 
-En la carpeta Basicos se encuentran proyectos sencillos, desarrollados en la terminal. 
+En la carpeta Basicos se encuentran proyectos sencillos, desarrollados en la terminal de python. 
 
-Seguire subiendo proyectos a medida que este creandolos.
-
+Subire proyectos basicos a Avanzados en Python
